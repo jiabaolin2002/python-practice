@@ -1,0 +1,16 @@
+name: PSYC46050_basic_2
+channels:
+- defaults
+- conda-forge
+- anaconda
+dependencies:
+- "python >= 3.6"
+- jupyter
+- jupyterlab
+- setuptools
+- coveralls
+- numpy
+- scipy
+- git
+- matplotlib
+- pandas
